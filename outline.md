@@ -1,6 +1,6 @@
 # 研究計画書
 
-* 著者(Slack name): zacky1972, hiro, monochrome, dalance, (tenpoku1000, ko1)
+* 著者(Slack name): zacky1972, hiro, monochrome, dalance, maru (tenpoku1000, ko1)
 * キーワード: コード最適化，M1
 
 ## 題目
