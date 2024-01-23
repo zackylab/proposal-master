@@ -10,7 +10,7 @@
 4. Descriptionに「(学生氏名)の修士論文研究計画書」と入れる．
 5. Privateになっていることを確認する．
 6. Create repositoryを押す．
-7. [`readme.md`](readme.md) を編集して，冒頭の`proposal-Bachelor (修士論文研究計画書)`を`proposal-(学生のID) ((学生氏名)の修士論文研究計画書)`というように書き換えて，commit & pushします．
+7. [`readme.md`](readme.md) を編集して，冒頭の`proposal-master (修士論文研究計画書)`を`proposal-(学生のID) ((学生氏名)の修士論文研究計画書)`というように書き換えて，commit & pushします．
 
 ## 研究計画書の標準的な記述の順番
 
